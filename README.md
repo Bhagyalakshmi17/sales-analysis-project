@@ -26,23 +26,26 @@ This project analyzes sales data using Python, SQL, and Excel to generate busine
 ---
 
 ## 📊 Key Insights
-- Electronics category has highest sales
-- Accessories have lower sales comparatively
-- Top products identified based on quantity sold
-- Profit analysis done by city
+- Electronics category generates highest revenue
+- Accessories show lower performance → potential improvement area
+- Certain cities contribute significantly higher profit
+- Top products drive majority of revenue
 
 ---
 
 ## 📈 Visualizations
 
 ### Sales by Category
-![Sales by Category](sales_by_category.png)
+Shows total sales comparison across categories.
+![Sales](sales_by_category.png)
 
 ### Profit by City
-![Profit by City](profit_by_city.png)
+Highlights which cities generate highest profit.
+![Profit](profit_by_city.png)
 
 ### Top Products
-![Top Products](top_products.png)
+Identifies best-selling products.
+![Top](top_products.png)
 
 ## 🗄️ SQL Analysis
 
@@ -67,6 +70,12 @@ Used Python (Pandas, Matplotlib) for:
 ## 📁 Output Files
 - Excel file with cleaned data
 - Charts saved as PNG images
+- 
+- ## 🛠 Skills Demonstrated
+- Data Cleaning (Pandas)
+- Data Analysis (SQL)
+- Data Visualization (Matplotlib)
+- Business Insight Generation
 
 ---
 
