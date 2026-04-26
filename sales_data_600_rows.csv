@@ -1,0 +1,601 @@
+Order_ID,Order_Date,Customer_Name,City,Product,Category,Quantity,Price,Sales,Profit,Payment_Mode
+1000,2/1/2025,Customer_58,Jersey City,Headphones,Electronics,1,16,16,3.97,UPI
+1001,1/5/2025,Customer_8,Hoboken,Laptop Bag,Accessories,5,32,160,34.9,Card
+1002,1/26/2025,Customer_140,New York,Mouse,Electronics,5,164,820,86.35,Card
+1003,1/1/2025,Customer_41,New York,Monitor,Electronics,5,81,405,106.06,Cash
+1004,2/13/2025,Customer_27,Hoboken,Keyboard,Electronics,2,65,130,37.89,Cash
+1005,4/14/2025,Customer_12,New York,Laptop Bag,Accessories,3,98,294,64.9,UPI
+1006,4/17/2025,Customer_93,Brooklyn,Laptop Bag,Accessories,4,30,120,25.25,Card
+1007,4/9/2025,Customer_75,Hoboken,Headphones,Electronics,1,21,21,4.88,Card
+1008,4/17/2025,Customer_94,Jersey City,Laptop Bag,Accessories,4,81,324,61.78,Cash
+1009,4/30/2025,Customer_19,Brooklyn,Keyboard,Electronics,2,181,362,55.53,UPI
+1010,3/1/2025,Customer_98,Newark,Mouse,Electronics,5,196,980,145.98,UPI
+1011,4/18/2025,Customer_15,Jersey City,Headphones,Electronics,5,66,330,78.18,Card
+1012,4/27/2025,Customer_146,Newark,Keyboard,Electronics,4,78,312,35.33,Card
+1013,3/24/2025,Customer_118,Jersey City,Headphones,Electronics,4,111,444,122.96,Cash
+1014,2/3/2025,Customer_150,New York,Mouse,Electronics,2,200,400,84.91,UPI
+1015,1/18/2025,Customer_131,New York,Monitor,Electronics,3,66,198,59.29,Card
+1016,4/12/2025,Customer_109,Brooklyn,Laptop Bag,Accessories,1,49,49,11.05,Card
+1017,3/9/2025,Customer_65,Brooklyn,Monitor,Electronics,4,162,648,193.9,Card
+1018,4/7/2025,Customer_69,Newark,Headphones,Electronics,1,184,184,50.96,Card
+1019,4/3/2025,Customer_68,Brooklyn,Keyboard,Electronics,4,50,200,38.15,Card
+1020,3/23/2025,Customer_130,Brooklyn,USB Cable,Accessories,1,170,170,27.15,Card
+1021,4/10/2025,Customer_136,Hoboken,Mouse,Electronics,3,51,153,31.8,UPI
+1022,2/16/2025,Customer_79,Jersey City,Keyboard,Electronics,4,14,56,6.85,Card
+1023,3/4/2025,Customer_18,Brooklyn,Mouse,Electronics,5,30,150,17.57,Card
+1024,3/9/2025,Customer_109,Jersey City,Mouse,Electronics,4,150,600,79.82,UPI
+1025,3/27/2025,Customer_96,New York,Headphones,Electronics,2,192,384,62.34,UPI
+1026,2/13/2025,Customer_6,Brooklyn,Monitor,Electronics,1,73,73,10.58,UPI
+1027,4/1/2025,Customer_16,Jersey City,Mouse,Electronics,5,66,330,33.47,Card
+1028,2/5/2025,Customer_125,Jersey City,Laptop Bag,Accessories,3,28,84,17.04,UPI
+1029,4/11/2025,Customer_122,New York,Mouse,Electronics,5,157,785,152.71,Card
+1030,2/24/2025,Customer_106,New York,Laptop Bag,Accessories,1,178,178,33.15,UPI
+1031,2/13/2025,Customer_28,Jersey City,Laptop Bag,Accessories,1,25,25,4.51,Card
+1032,1/24/2025,Customer_72,New York,Mouse,Electronics,5,124,620,79.38,Card
+1033,3/25/2025,Customer_139,Hoboken,Laptop Bag,Accessories,4,150,600,71.75,Card
+1034,1/28/2025,Customer_103,Hoboken,Mouse,Electronics,2,114,228,44.95,Card
+1035,4/11/2025,Customer_117,Newark,Monitor,Electronics,1,109,109,16.68,Cash
+1036,1/20/2025,Customer_49,Newark,Headphones,Electronics,5,179,895,218.1,Card
+1037,4/6/2025,Customer_81,Hoboken,Laptop Bag,Accessories,5,198,990,206.35,Card
+1038,3/9/2025,Customer_41,Hoboken,USB Cable,Accessories,4,138,552,156.7,UPI
+1039,3/28/2025,Customer_61,New York,Laptop Bag,Accessories,2,27,54,11.83,Card
+1040,3/21/2025,Customer_21,New York,USB Cable,Accessories,2,158,316,69.17,UPI
+1041,2/3/2025,Customer_53,Newark,USB Cable,Accessories,5,143,715,116.74,Card
+1042,2/8/2025,Customer_118,Newark,Keyboard,Electronics,4,43,172,40.31,Card
+1043,1/13/2025,Customer_19,Brooklyn,Laptop Bag,Accessories,4,169,676,202.59,Card
+1044,4/23/2025,Customer_18,Jersey City,USB Cable,Accessories,3,43,129,36.98,Cash
+1045,4/1/2025,Customer_78,Brooklyn,Keyboard,Electronics,2,122,244,65.09,UPI
+1046,2/8/2025,Customer_27,Jersey City,USB Cable,Accessories,1,180,180,47.42,Cash
+1047,2/4/2025,Customer_73,Brooklyn,Laptop Bag,Accessories,1,200,200,42.13,Card
+1048,4/20/2025,Customer_68,Brooklyn,Headphones,Electronics,3,62,186,44.17,Cash
+1049,4/17/2025,Customer_71,Hoboken,Keyboard,Electronics,1,33,33,7.49,Card
+1050,1/21/2025,Customer_114,Brooklyn,Keyboard,Electronics,2,173,346,102.4,UPI
+1051,5/1/2025,Customer_39,Brooklyn,Monitor,Electronics,5,12,60,7.34,Card
+1052,1/17/2025,Customer_11,Newark,Keyboard,Electronics,5,151,755,97.86,Cash
+1053,3/27/2025,Customer_27,Newark,Laptop Bag,Accessories,3,63,189,44.68,UPI
+1054,1/31/2025,Customer_42,Jersey City,Monitor,Electronics,5,49,245,69.86,Cash
+1055,4/11/2025,Customer_106,Jersey City,Laptop Bag,Accessories,2,198,396,112.82,Cash
+1056,4/20/2025,Customer_121,Jersey City,Mouse,Electronics,1,107,107,29.36,Card
+1057,4/22/2025,Customer_59,Jersey City,Monitor,Electronics,3,88,264,69.72,Card
+1058,4/21/2025,Customer_18,Newark,Headphones,Electronics,2,112,224,37.11,Cash
+1059,4/18/2025,Customer_138,Newark,Headphones,Electronics,5,112,560,132.11,Card
+1060,2/3/2025,Customer_10,Hoboken,Laptop Bag,Accessories,3,55,165,35.66,UPI
+1061,2/25/2025,Customer_131,Hoboken,Monitor,Electronics,3,196,588,151.28,Cash
+1062,2/25/2025,Customer_1,Brooklyn,USB Cable,Accessories,2,75,150,16.33,UPI
+1063,3/27/2025,Customer_85,Brooklyn,Headphones,Electronics,2,103,206,38.37,Cash
+1064,3/6/2025,Customer_80,New York,Headphones,Electronics,1,194,194,54.32,Cash
+1065,2/23/2025,Customer_98,Jersey City,Monitor,Electronics,3,151,453,56.83,UPI
+1066,1/1/2025,Customer_78,Newark,USB Cable,Accessories,3,113,339,71.05,Card
+1067,3/1/2025,Customer_114,New York,Monitor,Electronics,5,165,825,190.53,UPI
+1068,4/12/2025,Customer_44,Hoboken,Mouse,Electronics,5,131,655,169.48,Cash
+1069,4/7/2025,Customer_61,Newark,USB Cable,Accessories,5,95,475,56.37,Card
+1070,3/2/2025,Customer_19,New York,Mouse,Electronics,2,16,32,3.5,Cash
+1071,2/19/2025,Customer_127,New York,Headphones,Electronics,5,59,295,71.88,Card
+1072,1/29/2025,Customer_46,Brooklyn,Mouse,Electronics,1,37,37,9.46,Cash
+1073,1/16/2025,Customer_117,Jersey City,Laptop Bag,Accessories,5,73,365,103.48,Cash
+1074,4/7/2025,Customer_114,Brooklyn,Headphones,Electronics,5,153,765,167.6,UPI
+1075,1/21/2025,Customer_122,New York,USB Cable,Accessories,4,150,600,113.51,Cash
+1076,1/31/2025,Customer_71,New York,Mouse,Electronics,3,143,429,84.48,Card
+1077,2/10/2025,Customer_139,Hoboken,Headphones,Electronics,3,70,210,32.41,Card
+1078,4/1/2025,Customer_55,Hoboken,Mouse,Electronics,2,108,216,51.58,Cash
+1079,1/8/2025,Customer_53,New York,Monitor,Electronics,3,148,444,85.77,Cash
+1080,1/1/2025,Customer_91,Newark,USB Cable,Accessories,1,157,157,27.64,Cash
+1081,3/19/2025,Customer_57,New York,Monitor,Electronics,5,198,990,207.13,Card
+1082,2/13/2025,Customer_104,Jersey City,Keyboard,Electronics,4,134,536,56.71,Cash
+1083,2/20/2025,Customer_145,Hoboken,Mouse,Electronics,5,146,730,76.94,Card
+1084,1/24/2025,Customer_13,Newark,Headphones,Electronics,4,44,176,48.11,Cash
+1085,4/8/2025,Customer_98,Newark,Keyboard,Electronics,2,126,252,41.67,Cash
+1086,3/11/2025,Customer_14,Newark,Keyboard,Electronics,1,130,130,13.5,Card
+1087,1/4/2025,Customer_64,Jersey City,Headphones,Electronics,1,176,176,19.02,Card
+1088,3/27/2025,Customer_30,Brooklyn,USB Cable,Accessories,2,71,142,17.78,Card
+1089,3/19/2025,Customer_30,Jersey City,Monitor,Electronics,3,104,312,41.67,Cash
+1090,3/15/2025,Customer_97,New York,Laptop Bag,Accessories,5,16,80,22.86,UPI
+1091,3/22/2025,Customer_63,Hoboken,Mouse,Electronics,1,161,161,38.34,UPI
+1092,3/14/2025,Customer_11,Newark,Keyboard,Electronics,5,40,200,51.85,UPI
+1093,2/13/2025,Customer_4,New York,Monitor,Electronics,3,27,81,16.3,Cash
+1094,4/17/2025,Customer_118,Jersey City,Laptop Bag,Accessories,4,102,408,92.66,Cash
+1095,4/14/2025,Customer_138,New York,Mouse,Electronics,5,176,880,135.53,Cash
+1096,2/1/2025,Customer_23,Newark,Monitor,Electronics,5,78,390,64.14,Cash
+1097,2/18/2025,Customer_87,Hoboken,Mouse,Electronics,4,155,620,137.68,Cash
+1098,4/13/2025,Customer_67,Newark,Keyboard,Electronics,2,134,268,38.17,Cash
+1099,1/25/2025,Customer_22,Jersey City,USB Cable,Accessories,3,152,456,46.53,UPI
+1100,3/30/2025,Customer_122,New York,Monitor,Electronics,4,152,608,152.99,Cash
+1101,3/30/2025,Customer_63,Newark,Laptop Bag,Accessories,1,85,85,12.27,UPI
+1102,2/14/2025,Customer_109,Brooklyn,USB Cable,Accessories,3,131,393,82.8,Cash
+1103,1/30/2025,Customer_31,Jersey City,Keyboard,Electronics,4,79,316,50.98,Cash
+1104,1/28/2025,Customer_124,Newark,Laptop Bag,Accessories,5,186,930,127.44,UPI
+1105,1/13/2025,Customer_50,Newark,USB Cable,Accessories,5,162,810,126.85,Card
+1106,3/10/2025,Customer_33,Newark,Keyboard,Electronics,2,87,174,17.89,Card
+1107,1/17/2025,Customer_126,Hoboken,Laptop Bag,Accessories,5,84,420,100.58,Card
+1108,2/13/2025,Customer_48,Hoboken,USB Cable,Accessories,3,130,390,76.34,Cash
+1109,1/10/2025,Customer_148,Hoboken,Monitor,Electronics,1,26,26,4.68,Card
+1110,2/1/2025,Customer_31,Brooklyn,Mouse,Electronics,5,87,435,50.91,Cash
+1111,3/8/2025,Customer_98,New York,USB Cable,Accessories,5,168,840,121.92,Cash
+1112,3/21/2025,Customer_16,Brooklyn,Keyboard,Electronics,5,119,595,95.84,UPI
+1113,3/26/2025,Customer_21,Jersey City,Laptop Bag,Accessories,2,170,340,48.35,Card
+1114,2/22/2025,Customer_116,Brooklyn,Mouse,Electronics,5,29,145,19.04,Cash
+1115,2/6/2025,Customer_117,Hoboken,Keyboard,Electronics,1,69,69,10.88,UPI
+1116,4/13/2025,Customer_51,New York,Mouse,Electronics,3,170,510,111.16,Card
+1117,2/4/2025,Customer_37,Hoboken,USB Cable,Accessories,2,175,350,45.43,Card
+1118,3/14/2025,Customer_74,New York,Mouse,Electronics,3,162,486,121.4,Card
+1119,2/4/2025,Customer_129,Brooklyn,Monitor,Electronics,3,189,567,102.34,Cash
+1120,2/25/2025,Customer_83,Brooklyn,Monitor,Electronics,1,163,163,17.6,Cash
+1121,4/18/2025,Customer_148,Brooklyn,Laptop Bag,Accessories,1,68,68,19.88,Card
+1122,4/7/2025,Customer_45,New York,Headphones,Electronics,3,157,471,50.89,UPI
+1123,3/16/2025,Customer_112,New York,Headphones,Electronics,4,81,324,44.16,Card
+1124,3/27/2025,Customer_27,Jersey City,Monitor,Electronics,3,114,342,57,Cash
+1125,2/21/2025,Customer_141,Hoboken,Monitor,Electronics,4,83,332,77.2,Cash
+1126,4/9/2025,Customer_104,Brooklyn,Laptop Bag,Accessories,3,74,222,36.55,Card
+1127,1/25/2025,Customer_133,Newark,Headphones,Electronics,5,128,640,116.9,UPI
+1128,3/12/2025,Customer_34,Newark,Monitor,Electronics,4,23,92,12.95,Cash
+1129,3/22/2025,Customer_62,Jersey City,Headphones,Electronics,4,41,164,17.35,Cash
+1130,1/29/2025,Customer_30,New York,USB Cable,Accessories,1,151,151,27.42,Card
+1131,2/7/2025,Customer_131,Newark,Headphones,Electronics,2,137,274,78.51,Cash
+1132,1/19/2025,Customer_99,Jersey City,Monitor,Electronics,4,72,288,55.11,UPI
+1133,4/12/2025,Customer_107,Newark,USB Cable,Accessories,2,27,54,8.38,UPI
+1134,4/18/2025,Customer_149,New York,Keyboard,Electronics,1,82,82,20.11,Card
+1135,3/12/2025,Customer_140,New York,Monitor,Electronics,5,133,665,112.4,Cash
+1136,2/19/2025,Customer_60,New York,Keyboard,Electronics,2,188,376,55.56,Card
+1137,2/18/2025,Customer_99,Jersey City,Keyboard,Electronics,4,190,760,214.84,Cash
+1138,2/12/2025,Customer_26,New York,Laptop Bag,Accessories,2,138,276,80.89,Card
+1139,2/22/2025,Customer_40,Hoboken,USB Cable,Accessories,4,13,52,12.71,Cash
+1140,3/25/2025,Customer_21,Newark,Keyboard,Electronics,3,169,507,120.94,UPI
+1141,4/24/2025,Customer_125,Brooklyn,USB Cable,Accessories,4,91,364,82.03,Card
+1142,4/28/2025,Customer_74,Jersey City,USB Cable,Accessories,1,70,70,15.84,UPI
+1143,4/1/2025,Customer_26,New York,Laptop Bag,Accessories,4,35,140,35.29,Card
+1144,4/12/2025,Customer_15,Newark,Headphones,Electronics,3,17,51,5.57,Cash
+1145,2/22/2025,Customer_145,Jersey City,Keyboard,Electronics,4,47,188,27.98,Card
+1146,3/21/2025,Customer_62,New York,Mouse,Electronics,1,166,166,45.51,UPI
+1147,2/28/2025,Customer_66,Hoboken,Mouse,Electronics,2,128,256,58.26,Cash
+1148,5/1/2025,Customer_89,Brooklyn,Keyboard,Electronics,5,50,250,28.69,Cash
+1149,4/19/2025,Customer_78,Jersey City,Headphones,Electronics,4,186,744,111.61,Cash
+1150,2/15/2025,Customer_148,Newark,Monitor,Electronics,1,70,70,12.34,UPI
+1151,1/2/2025,Customer_145,Hoboken,Keyboard,Electronics,1,178,178,31.89,UPI
+1152,1/30/2025,Customer_91,Jersey City,Headphones,Electronics,4,83,332,84.71,UPI
+1153,4/3/2025,Customer_36,Hoboken,Mouse,Electronics,5,74,370,87.15,UPI
+1154,1/5/2025,Customer_149,Newark,Headphones,Electronics,1,89,89,22.94,UPI
+1155,2/23/2025,Customer_45,Jersey City,Mouse,Electronics,1,85,85,14.05,Card
+1156,2/4/2025,Customer_43,Newark,USB Cable,Accessories,3,145,435,87.16,Cash
+1157,1/10/2025,Customer_37,Jersey City,Keyboard,Electronics,3,39,117,22.66,UPI
+1158,4/12/2025,Customer_102,Hoboken,Headphones,Electronics,4,152,608,105.28,Cash
+1159,4/6/2025,Customer_68,Brooklyn,USB Cable,Accessories,1,126,126,21.89,Cash
+1160,3/2/2025,Customer_7,Brooklyn,Headphones,Electronics,3,37,111,26.08,UPI
+1161,3/23/2025,Customer_119,Newark,Keyboard,Electronics,5,66,330,75.75,UPI
+1162,1/5/2025,Customer_78,New York,Monitor,Electronics,1,45,45,4.91,Card
+1163,2/28/2025,Customer_95,Brooklyn,Laptop Bag,Accessories,2,147,294,37.38,Cash
+1164,4/17/2025,Customer_126,Brooklyn,USB Cable,Accessories,2,116,232,53.59,Cash
+1165,2/26/2025,Customer_114,Jersey City,Keyboard,Electronics,1,186,186,32.38,Cash
+1166,3/24/2025,Customer_92,Hoboken,Laptop Bag,Accessories,3,149,447,125.31,Cash
+1167,4/16/2025,Customer_117,Hoboken,Keyboard,Electronics,2,41,82,23.76,UPI
+1168,2/12/2025,Customer_63,Jersey City,Mouse,Electronics,5,15,75,8.26,UPI
+1169,1/28/2025,Customer_60,Newark,Mouse,Electronics,1,151,151,21.36,Card
+1170,1/19/2025,Customer_34,Brooklyn,USB Cable,Accessories,1,80,80,21.73,Cash
+1171,1/17/2025,Customer_4,Newark,Mouse,Electronics,1,179,179,48.92,Card
+1172,1/7/2025,Customer_33,New York,USB Cable,Accessories,3,14,42,5.66,UPI
+1173,2/16/2025,Customer_132,Brooklyn,Laptop Bag,Accessories,1,131,131,24.84,Card
+1174,1/6/2025,Customer_134,Newark,Monitor,Electronics,5,66,330,95.4,Cash
+1175,4/19/2025,Customer_103,New York,Headphones,Electronics,1,25,25,7.49,UPI
+1176,1/10/2025,Customer_21,Newark,Laptop Bag,Accessories,4,192,768,216.53,UPI
+1177,3/23/2025,Customer_150,Brooklyn,Mouse,Electronics,1,42,42,6.51,UPI
+1178,2/28/2025,Customer_130,Brooklyn,Keyboard,Electronics,4,162,648,133.56,Cash
+1179,4/9/2025,Customer_142,Jersey City,Laptop Bag,Accessories,1,177,177,40.74,Cash
+1180,2/28/2025,Customer_103,New York,Monitor,Electronics,2,115,230,38.59,UPI
+1181,2/2/2025,Customer_96,Jersey City,Laptop Bag,Accessories,3,119,357,58.01,UPI
+1182,1/12/2025,Customer_111,Hoboken,Monitor,Electronics,1,33,33,8.79,UPI
+1183,3/17/2025,Customer_144,Brooklyn,Headphones,Electronics,3,43,129,27.25,Cash
+1184,3/27/2025,Customer_109,Hoboken,Headphones,Electronics,1,115,115,19.63,Cash
+1185,3/6/2025,Customer_55,Jersey City,USB Cable,Accessories,3,100,300,36.22,UPI
+1186,3/13/2025,Customer_95,Hoboken,Monitor,Electronics,2,37,74,12.58,Cash
+1187,4/9/2025,Customer_143,Hoboken,USB Cable,Accessories,2,119,238,64.03,UPI
+1188,3/31/2025,Customer_80,Newark,Headphones,Electronics,3,17,51,6.94,Cash
+1189,2/21/2025,Customer_18,Jersey City,Laptop Bag,Accessories,2,46,92,19.62,UPI
+1190,1/28/2025,Customer_97,New York,Headphones,Electronics,1,33,33,8.22,Cash
+1191,2/11/2025,Customer_146,Brooklyn,Keyboard,Electronics,2,104,208,33.76,Card
+1192,1/7/2025,Customer_21,Newark,Laptop Bag,Accessories,2,50,100,25.09,Cash
+1193,2/23/2025,Customer_70,Jersey City,Headphones,Electronics,4,134,536,118.68,UPI
+1194,3/28/2025,Customer_125,Brooklyn,Laptop Bag,Accessories,3,120,360,43.98,UPI
+1195,3/18/2025,Customer_15,Hoboken,Keyboard,Electronics,1,66,66,11.82,Card
+1196,2/7/2025,Customer_84,Hoboken,Keyboard,Electronics,2,45,90,22.75,Card
+1197,3/10/2025,Customer_59,Brooklyn,Monitor,Electronics,4,54,216,27.18,UPI
+1198,4/5/2025,Customer_11,New York,Headphones,Electronics,3,28,84,15.07,Card
+1199,3/15/2025,Customer_104,New York,Monitor,Electronics,1,90,90,19.36,Cash
+1200,1/22/2025,Customer_118,Newark,Laptop Bag,Accessories,4,15,60,17.59,Card
+1201,2/21/2025,Customer_135,Hoboken,Monitor,Electronics,1,72,72,13.47,Cash
+1202,1/22/2025,Customer_20,Brooklyn,Keyboard,Electronics,3,66,198,32.99,UPI
+1203,4/10/2025,Customer_90,Newark,Laptop Bag,Accessories,5,140,700,97.15,UPI
+1204,2/2/2025,Customer_51,Jersey City,Headphones,Electronics,2,70,140,16.88,UPI
+1205,3/22/2025,Customer_127,New York,Mouse,Electronics,1,55,55,15.96,UPI
+1206,3/14/2025,Customer_83,Newark,USB Cable,Accessories,4,184,736,209.64,Card
+1207,2/8/2025,Customer_71,Brooklyn,Monitor,Electronics,1,130,130,24.5,Card
+1208,2/27/2025,Customer_10,Hoboken,Keyboard,Electronics,5,28,140,22.69,Cash
+1209,4/20/2025,Customer_24,Brooklyn,Keyboard,Electronics,1,175,175,47.75,UPI
+1210,4/12/2025,Customer_11,New York,USB Cable,Accessories,4,128,512,110.63,UPI
+1211,3/6/2025,Customer_39,Hoboken,Headphones,Electronics,2,92,184,40.66,Cash
+1212,3/24/2025,Customer_45,Hoboken,Laptop Bag,Accessories,3,192,576,67.31,Card
+1213,3/20/2025,Customer_41,Newark,Headphones,Electronics,4,122,488,99.95,Cash
+1214,3/28/2025,Customer_14,Newark,Keyboard,Electronics,4,114,456,116.23,Card
+1215,2/6/2025,Customer_65,Brooklyn,Keyboard,Electronics,1,152,152,35.82,Card
+1216,4/28/2025,Customer_90,Newark,Keyboard,Electronics,1,159,159,37,UPI
+1217,5/1/2025,Customer_22,Newark,Headphones,Electronics,4,43,172,37.67,UPI
+1218,4/17/2025,Customer_135,Hoboken,Monitor,Electronics,3,42,126,29.49,UPI
+1219,2/16/2025,Customer_80,Jersey City,Headphones,Electronics,4,140,560,96.52,Card
+1220,1/18/2025,Customer_40,Hoboken,Keyboard,Electronics,4,59,236,34.29,Cash
+1221,4/24/2025,Customer_135,Hoboken,Laptop Bag,Accessories,5,148,740,197.6,UPI
+1222,1/20/2025,Customer_42,Jersey City,Keyboard,Electronics,5,43,215,47.18,UPI
+1223,2/22/2025,Customer_94,Jersey City,USB Cable,Accessories,2,194,388,72.76,Cash
+1224,1/31/2025,Customer_80,New York,USB Cable,Accessories,3,124,372,54.61,Card
+1225,2/6/2025,Customer_98,Brooklyn,Keyboard,Electronics,5,122,610,117.32,UPI
+1226,1/18/2025,Customer_65,Hoboken,Monitor,Electronics,2,61,122,31.75,UPI
+1227,4/2/2025,Customer_133,Hoboken,Monitor,Electronics,3,151,453,129.95,Cash
+1228,3/7/2025,Customer_38,New York,Laptop Bag,Accessories,2,79,158,30,Card
+1229,2/23/2025,Customer_14,New York,Mouse,Electronics,4,99,396,113.29,UPI
+1230,2/17/2025,Customer_58,Hoboken,Keyboard,Electronics,2,108,216,64.56,Cash
+1231,2/6/2025,Customer_121,Jersey City,Laptop Bag,Accessories,3,47,141,17.98,UPI
+1232,1/11/2025,Customer_5,Newark,Monitor,Electronics,4,167,668,67.5,Card
+1233,2/24/2025,Customer_29,Newark,Mouse,Electronics,5,196,980,217.34,Card
+1234,3/23/2025,Customer_118,Hoboken,Keyboard,Electronics,1,22,22,3.25,Card
+1235,3/7/2025,Customer_148,Jersey City,Monitor,Electronics,5,147,735,75.92,UPI
+1236,2/15/2025,Customer_62,Brooklyn,Mouse,Electronics,3,119,357,35.81,Cash
+1237,1/9/2025,Customer_135,Brooklyn,Mouse,Electronics,1,144,144,42.47,UPI
+1238,3/2/2025,Customer_12,New York,USB Cable,Accessories,5,15,75,13.36,Cash
+1239,2/14/2025,Customer_62,Hoboken,Keyboard,Electronics,1,101,101,26.03,UPI
+1240,3/11/2025,Customer_87,Jersey City,Headphones,Electronics,3,44,132,14.37,UPI
+1241,1/18/2025,Customer_17,New York,Monitor,Electronics,4,171,684,93.34,Card
+1242,4/24/2025,Customer_11,Newark,Keyboard,Electronics,2,21,42,10.85,Cash
+1243,1/5/2025,Customer_49,Newark,USB Cable,Accessories,4,149,596,116.03,Cash
+1244,2/17/2025,Customer_112,New York,Laptop Bag,Accessories,3,79,237,29.6,UPI
+1245,3/5/2025,Customer_128,Newark,Monitor,Electronics,4,96,384,113.18,UPI
+1246,2/25/2025,Customer_47,Brooklyn,Keyboard,Electronics,1,196,196,36.24,Cash
+1247,2/7/2025,Customer_79,New York,Keyboard,Electronics,1,30,30,4.97,UPI
+1248,2/14/2025,Customer_115,Hoboken,Headphones,Electronics,4,52,208,49.49,UPI
+1249,4/12/2025,Customer_15,Hoboken,Keyboard,Electronics,5,121,605,93.72,UPI
+1250,4/6/2025,Customer_41,Hoboken,Headphones,Electronics,4,103,412,83.48,Card
+1251,1/31/2025,Customer_94,Newark,USB Cable,Accessories,4,18,72,9.02,Cash
+1252,2/27/2025,Customer_95,Newark,USB Cable,Accessories,1,164,164,21.43,Cash
+1253,2/20/2025,Customer_81,Newark,Laptop Bag,Accessories,5,45,225,46.33,Card
+1254,3/8/2025,Customer_100,Brooklyn,Laptop Bag,Accessories,1,198,198,27.17,Card
+1255,3/20/2025,Customer_74,New York,Keyboard,Electronics,3,190,570,107.88,Card
+1256,4/26/2025,Customer_114,Hoboken,Laptop Bag,Accessories,2,28,56,10.66,UPI
+1257,3/11/2025,Customer_75,Newark,Keyboard,Electronics,3,191,573,64.74,Card
+1258,1/16/2025,Customer_52,Jersey City,Headphones,Electronics,2,102,204,41.16,Card
+1259,2/17/2025,Customer_120,Brooklyn,Monitor,Electronics,1,102,102,21.5,Card
+1260,4/2/2025,Customer_123,Brooklyn,USB Cable,Accessories,1,26,26,4.21,Cash
+1261,2/10/2025,Customer_19,New York,Monitor,Electronics,5,28,140,17.51,Cash
+1262,4/17/2025,Customer_142,Brooklyn,Headphones,Electronics,5,98,490,61.58,Card
+1263,1/8/2025,Customer_32,Brooklyn,Mouse,Electronics,4,138,552,155.74,Card
+1264,4/1/2025,Customer_58,Newark,Keyboard,Electronics,2,51,102,16.78,UPI
+1265,3/12/2025,Customer_71,Jersey City,Keyboard,Electronics,1,74,74,10.31,UPI
+1266,3/24/2025,Customer_44,Brooklyn,Keyboard,Electronics,5,146,730,86.64,UPI
+1267,4/26/2025,Customer_87,Brooklyn,Mouse,Electronics,2,178,356,80.06,Card
+1268,4/9/2025,Customer_148,Newark,Laptop Bag,Accessories,1,21,21,6.08,UPI
+1269,1/4/2025,Customer_128,Brooklyn,Mouse,Electronics,5,116,580,129.7,Cash
+1270,4/14/2025,Customer_104,Newark,Headphones,Electronics,3,133,399,59.44,Cash
+1271,3/3/2025,Customer_119,Jersey City,Laptop Bag,Accessories,1,50,50,9.4,Cash
+1272,2/10/2025,Customer_89,New York,USB Cable,Accessories,2,90,180,49.01,Card
+1273,1/31/2025,Customer_120,Hoboken,Keyboard,Electronics,5,153,765,92.75,Cash
+1274,2/7/2025,Customer_99,Brooklyn,Monitor,Electronics,2,46,92,10.98,Cash
+1275,4/3/2025,Customer_81,Jersey City,Mouse,Electronics,2,93,186,53.34,Card
+1276,2/9/2025,Customer_128,Hoboken,Monitor,Electronics,5,129,645,128.84,Card
+1277,1/28/2025,Customer_150,Newark,Monitor,Electronics,5,127,635,186.27,Card
+1278,4/18/2025,Customer_121,Newark,Laptop Bag,Accessories,3,136,408,89.56,UPI
+1279,2/3/2025,Customer_94,New York,Laptop Bag,Accessories,1,120,120,15.21,Cash
+1280,1/25/2025,Customer_93,Brooklyn,Laptop Bag,Accessories,4,23,92,19.69,Cash
+1281,3/12/2025,Customer_72,Brooklyn,Laptop Bag,Accessories,4,139,556,105.68,UPI
+1282,2/20/2025,Customer_96,Newark,USB Cable,Accessories,1,42,42,12.39,UPI
+1283,2/21/2025,Customer_129,Hoboken,Keyboard,Electronics,2,60,120,26.46,Card
+1284,3/2/2025,Customer_133,New York,Laptop Bag,Accessories,2,192,384,63.98,Card
+1285,3/20/2025,Customer_82,Jersey City,USB Cable,Accessories,5,45,225,37.26,Cash
+1286,4/17/2025,Customer_131,Brooklyn,USB Cable,Accessories,3,161,483,80.79,Cash
+1287,1/3/2025,Customer_95,Newark,Headphones,Electronics,5,86,430,83.84,UPI
+1288,4/26/2025,Customer_7,Brooklyn,Laptop Bag,Accessories,4,159,636,102.74,Cash
+1289,1/7/2025,Customer_150,New York,Keyboard,Electronics,5,157,785,114.22,Card
+1290,3/29/2025,Customer_63,Hoboken,USB Cable,Accessories,5,107,535,69.31,UPI
+1291,2/10/2025,Customer_108,Jersey City,Headphones,Electronics,1,58,58,6.02,Cash
+1292,3/20/2025,Customer_121,Hoboken,Headphones,Electronics,2,115,230,46.08,UPI
+1293,3/26/2025,Customer_123,Brooklyn,Mouse,Electronics,5,63,315,66.84,Cash
+1294,2/13/2025,Customer_140,Newark,Keyboard,Electronics,2,127,254,71.74,UPI
+1295,2/1/2025,Customer_72,Brooklyn,Headphones,Electronics,3,166,498,98.02,Cash
+1296,3/30/2025,Customer_126,Newark,Mouse,Electronics,3,83,249,60,Cash
+1297,1/16/2025,Customer_147,Brooklyn,Keyboard,Electronics,5,194,970,150.05,Cash
+1298,2/6/2025,Customer_21,Newark,Monitor,Electronics,3,47,141,22.29,Cash
+1299,4/16/2025,Customer_138,Newark,Headphones,Electronics,3,132,396,56.55,UPI
+1300,4/5/2025,Customer_62,Jersey City,Headphones,Electronics,3,45,135,16.45,Card
+1301,1/7/2025,Customer_26,New York,Headphones,Electronics,5,67,335,76.24,Cash
+1302,1/18/2025,Customer_2,Brooklyn,Headphones,Electronics,4,35,140,33.07,Card
+1303,4/7/2025,Customer_74,Newark,Monitor,Electronics,4,132,528,121.5,Cash
+1304,1/30/2025,Customer_137,Hoboken,Headphones,Electronics,1,32,32,7.37,Card
+1305,2/20/2025,Customer_127,Jersey City,Monitor,Electronics,2,19,38,11.38,UPI
+1306,3/19/2025,Customer_28,Newark,Keyboard,Electronics,1,12,12,1.92,Cash
+1307,5/1/2025,Customer_35,Brooklyn,Monitor,Electronics,5,144,720,143.12,Cash
+1308,4/4/2025,Customer_118,Newark,Keyboard,Electronics,2,38,76,12.63,UPI
+1309,2/7/2025,Customer_146,Jersey City,Mouse,Electronics,1,198,198,33.15,Card
+1310,1/12/2025,Customer_103,Hoboken,USB Cable,Accessories,4,119,476,96.65,Card
+1311,1/1/2025,Customer_67,New York,Mouse,Electronics,4,92,368,105.68,Card
+1312,4/3/2025,Customer_147,Hoboken,Monitor,Electronics,3,94,282,45.23,Cash
+1313,3/27/2025,Customer_31,New York,Headphones,Electronics,3,187,561,82.61,Cash
+1314,4/25/2025,Customer_80,Hoboken,Mouse,Electronics,4,185,740,148.37,UPI
+1315,1/18/2025,Customer_123,Jersey City,Keyboard,Electronics,3,167,501,72.23,Cash
+1316,3/12/2025,Customer_121,Brooklyn,Headphones,Electronics,5,105,525,96.16,UPI
+1317,4/22/2025,Customer_21,Brooklyn,Mouse,Electronics,2,184,368,92.35,Cash
+1318,1/15/2025,Customer_16,Brooklyn,USB Cable,Accessories,3,29,87,24.66,UPI
+1319,2/11/2025,Customer_134,New York,Mouse,Electronics,5,147,735,95.53,Card
+1320,1/12/2025,Customer_131,New York,Headphones,Electronics,2,193,386,83.62,Card
+1321,3/14/2025,Customer_15,Brooklyn,Monitor,Electronics,2,141,282,51.63,Cash
+1322,2/2/2025,Customer_1,Jersey City,Headphones,Electronics,3,195,585,61.05,UPI
+1323,1/9/2025,Customer_139,Hoboken,Laptop Bag,Accessories,1,118,118,19.93,Card
+1324,4/9/2025,Customer_35,New York,Monitor,Electronics,1,83,83,15.09,Cash
+1325,3/29/2025,Customer_139,Jersey City,Monitor,Electronics,4,106,424,74.25,UPI
+1326,2/20/2025,Customer_136,Jersey City,Keyboard,Electronics,1,55,55,16.42,UPI
+1327,3/1/2025,Customer_140,New York,Mouse,Electronics,1,15,15,4.44,UPI
+1328,1/20/2025,Customer_71,Jersey City,Monitor,Electronics,2,73,146,28.05,UPI
+1329,4/9/2025,Customer_5,Jersey City,Laptop Bag,Accessories,1,179,179,32.91,Card
+1330,3/18/2025,Customer_13,Jersey City,Laptop Bag,Accessories,1,162,162,17.29,UPI
+1331,1/28/2025,Customer_15,Jersey City,Laptop Bag,Accessories,4,122,488,71.67,UPI
+1332,3/15/2025,Customer_83,Jersey City,Keyboard,Electronics,2,197,394,84.8,Cash
+1333,2/5/2025,Customer_16,Brooklyn,Mouse,Electronics,5,66,330,60.29,UPI
+1334,3/13/2025,Customer_127,Hoboken,Headphones,Electronics,2,170,340,80.16,Cash
+1335,2/23/2025,Customer_105,Jersey City,Headphones,Electronics,4,144,576,94.32,Cash
+1336,4/19/2025,Customer_58,Newark,Monitor,Electronics,2,147,294,57.24,UPI
+1337,2/23/2025,Customer_143,Brooklyn,Mouse,Electronics,4,24,96,20.4,Card
+1338,3/24/2025,Customer_21,New York,Monitor,Electronics,2,75,150,21.1,Cash
+1339,1/7/2025,Customer_69,New York,Laptop Bag,Accessories,5,195,975,259.23,UPI
+1340,1/25/2025,Customer_144,Jersey City,USB Cable,Accessories,5,20,100,27.47,Cash
+1341,1/2/2025,Customer_55,Jersey City,Mouse,Electronics,3,87,261,76.06,UPI
+1342,4/1/2025,Customer_53,New York,Laptop Bag,Accessories,4,72,288,68.87,Card
+1343,3/10/2025,Customer_92,Newark,USB Cable,Accessories,3,82,246,43.33,Cash
+1344,4/13/2025,Customer_121,Newark,Keyboard,Electronics,5,137,685,132.34,Card
+1345,4/21/2025,Customer_57,Jersey City,Keyboard,Electronics,3,115,345,37.65,Card
+1346,2/23/2025,Customer_76,Jersey City,Keyboard,Electronics,5,159,795,171.58,Card
+1347,2/1/2025,Customer_128,Brooklyn,Keyboard,Electronics,2,107,214,45.79,UPI
+1348,3/4/2025,Customer_126,New York,Headphones,Electronics,3,75,225,56.85,Card
+1349,3/11/2025,Customer_126,Jersey City,Headphones,Electronics,3,53,159,20.35,UPI
+1350,4/19/2025,Customer_20,Hoboken,Headphones,Electronics,1,144,144,15.37,Card
+1351,4/1/2025,Customer_39,Hoboken,Monitor,Electronics,2,171,342,50.03,Card
+1352,3/23/2025,Customer_124,New York,USB Cable,Accessories,4,105,420,47.08,Card
+1353,1/3/2025,Customer_136,Newark,Laptop Bag,Accessories,5,151,755,137.61,UPI
+1354,3/28/2025,Customer_111,Jersey City,Keyboard,Electronics,1,138,138,36.24,Card
+1355,3/21/2025,Customer_135,Newark,Laptop Bag,Accessories,5,48,240,35.57,Cash
+1356,2/21/2025,Customer_118,Brooklyn,Keyboard,Electronics,4,30,120,20.95,Card
+1357,4/19/2025,Customer_21,Hoboken,Headphones,Electronics,2,86,172,40.73,Card
+1358,1/8/2025,Customer_3,Jersey City,Monitor,Electronics,4,106,424,89.27,Card
+1359,3/14/2025,Customer_25,Brooklyn,Monitor,Electronics,4,175,700,179.81,Card
+1360,3/2/2025,Customer_70,Hoboken,Mouse,Electronics,2,187,374,103.79,Card
+1361,1/5/2025,Customer_46,Newark,Headphones,Electronics,3,149,447,95.08,Card
+1362,4/2/2025,Customer_102,Hoboken,Mouse,Electronics,5,46,230,57.6,Cash
+1363,4/19/2025,Customer_100,Brooklyn,Mouse,Electronics,5,71,355,75.74,Cash
+1364,3/6/2025,Customer_89,Hoboken,Monitor,Electronics,2,186,372,91.08,Card
+1365,4/9/2025,Customer_102,Newark,Monitor,Electronics,2,29,58,9.75,Card
+1366,2/15/2025,Customer_142,New York,Headphones,Electronics,3,125,375,74.3,Cash
+1367,4/9/2025,Customer_76,Jersey City,Mouse,Electronics,5,179,895,157.53,UPI
+1368,4/2/2025,Customer_40,New York,Laptop Bag,Accessories,1,78,78,10.21,Cash
+1369,2/9/2025,Customer_114,Newark,Keyboard,Electronics,1,33,33,3.33,Cash
+1370,2/27/2025,Customer_143,Brooklyn,Laptop Bag,Accessories,2,32,64,8.8,UPI
+1371,3/12/2025,Customer_24,Brooklyn,Monitor,Electronics,1,16,16,1.89,UPI
+1372,2/19/2025,Customer_22,Brooklyn,Keyboard,Electronics,4,13,52,8.24,Card
+1373,1/22/2025,Customer_36,Newark,USB Cable,Accessories,5,53,265,62.82,Cash
+1374,2/25/2025,Customer_71,New York,Keyboard,Electronics,4,47,188,21.18,Cash
+1375,2/1/2025,Customer_127,Brooklyn,Monitor,Electronics,1,102,102,15.33,UPI
+1376,1/1/2025,Customer_102,Newark,Mouse,Electronics,4,37,148,18.81,UPI
+1377,4/15/2025,Customer_35,Newark,Monitor,Electronics,3,122,366,61.1,Cash
+1378,2/20/2025,Customer_82,Newark,USB Cable,Accessories,2,132,264,42.99,UPI
+1379,2/11/2025,Customer_97,Newark,Headphones,Electronics,4,157,628,161.02,Cash
+1380,3/11/2025,Customer_47,Brooklyn,Keyboard,Electronics,1,154,154,21.55,Card
+1381,4/13/2025,Customer_75,Hoboken,Headphones,Electronics,4,191,764,108.43,Cash
+1382,1/31/2025,Customer_65,Jersey City,Headphones,Electronics,4,45,180,40.8,UPI
+1383,3/18/2025,Customer_123,Brooklyn,Monitor,Electronics,4,28,112,21.26,Cash
+1384,1/5/2025,Customer_93,Brooklyn,USB Cable,Accessories,5,187,935,171.72,UPI
+1385,3/26/2025,Customer_91,Jersey City,Headphones,Electronics,1,37,37,9.39,UPI
+1386,3/28/2025,Customer_103,Newark,USB Cable,Accessories,1,154,154,45.7,Cash
+1387,3/7/2025,Customer_133,Brooklyn,Laptop Bag,Accessories,1,35,35,5.31,UPI
+1388,2/20/2025,Customer_119,Brooklyn,Headphones,Electronics,5,66,330,62.42,UPI
+1389,3/3/2025,Customer_27,Newark,USB Cable,Accessories,2,98,196,58.71,Cash
+1390,2/9/2025,Customer_88,New York,Laptop Bag,Accessories,1,196,196,25.15,Card
+1391,2/26/2025,Customer_116,Newark,USB Cable,Accessories,4,99,396,77.31,Card
+1392,4/19/2025,Customer_88,Hoboken,Keyboard,Electronics,1,191,191,23.5,UPI
+1393,1/21/2025,Customer_85,Brooklyn,Mouse,Electronics,2,142,284,38.31,Cash
+1394,1/24/2025,Customer_111,New York,Monitor,Electronics,2,113,226,51.07,Card
+1395,2/24/2025,Customer_100,Hoboken,Headphones,Electronics,5,60,300,56.97,UPI
+1396,4/14/2025,Customer_17,Brooklyn,Mouse,Electronics,2,81,162,40.58,Card
+1397,2/28/2025,Customer_30,Newark,USB Cable,Accessories,2,103,206,34.03,UPI
+1398,2/19/2025,Customer_101,Brooklyn,Monitor,Electronics,5,173,865,140.72,Card
+1399,4/15/2025,Customer_77,Brooklyn,Keyboard,Electronics,3,127,381,85.14,UPI
+1400,2/9/2025,Customer_30,Jersey City,Laptop Bag,Accessories,2,90,180,22.24,Cash
+1401,3/18/2025,Customer_36,Brooklyn,Headphones,Electronics,2,140,280,49.75,Cash
+1402,3/30/2025,Customer_45,Brooklyn,Monitor,Electronics,2,134,268,60.86,Card
+1403,4/18/2025,Customer_116,Brooklyn,Monitor,Electronics,3,45,135,18.55,Card
+1404,4/15/2025,Customer_99,Brooklyn,Keyboard,Electronics,1,134,134,17.06,UPI
+1405,2/23/2025,Customer_114,New York,Headphones,Electronics,4,114,456,108.04,Card
+1406,1/29/2025,Customer_75,Hoboken,Laptop Bag,Accessories,5,17,85,22.03,Cash
+1407,2/28/2025,Customer_145,New York,Mouse,Electronics,5,83,415,55.46,UPI
+1408,4/10/2025,Customer_140,Newark,USB Cable,Accessories,1,156,156,19.16,UPI
+1409,2/24/2025,Customer_27,Jersey City,Laptop Bag,Accessories,4,149,596,85.65,Cash
+1410,4/15/2025,Customer_23,New York,Laptop Bag,Accessories,4,77,308,52.27,Card
+1411,2/14/2025,Customer_110,Jersey City,Mouse,Electronics,2,198,396,86.16,UPI
+1412,3/14/2025,Customer_90,Brooklyn,Mouse,Electronics,2,62,124,32.37,Cash
+1413,4/1/2025,Customer_75,Newark,USB Cable,Accessories,5,53,265,43.65,UPI
+1414,1/18/2025,Customer_106,Hoboken,Keyboard,Electronics,5,183,915,240.68,Cash
+1415,2/1/2025,Customer_38,Newark,Headphones,Electronics,2,189,378,103.28,Card
+1416,3/22/2025,Customer_69,New York,Headphones,Electronics,4,135,540,69.35,Cash
+1417,4/9/2025,Customer_24,New York,Monitor,Electronics,1,172,172,44.53,UPI
+1418,2/17/2025,Customer_117,New York,Headphones,Electronics,3,187,561,161.16,Cash
+1419,2/28/2025,Customer_92,Hoboken,USB Cable,Accessories,1,197,197,23.37,UPI
+1420,3/5/2025,Customer_69,Newark,Monitor,Electronics,2,119,238,63.06,Cash
+1421,4/20/2025,Customer_125,Newark,Keyboard,Electronics,5,157,785,99,UPI
+1422,4/18/2025,Customer_118,Hoboken,Laptop Bag,Accessories,1,35,35,7.88,Card
+1423,2/24/2025,Customer_52,Jersey City,Mouse,Electronics,4,126,504,50.47,UPI
+1424,2/16/2025,Customer_65,Hoboken,Keyboard,Electronics,2,80,160,18.99,Cash
+1425,2/9/2025,Customer_60,New York,Headphones,Electronics,2,23,46,8.25,UPI
+1426,1/10/2025,Customer_34,Brooklyn,Laptop Bag,Accessories,1,10,10,1.43,Card
+1427,2/13/2025,Customer_31,New York,USB Cable,Accessories,4,12,48,4.88,UPI
+1428,1/12/2025,Customer_27,Hoboken,Mouse,Electronics,4,28,112,16.33,Cash
+1429,4/15/2025,Customer_35,Jersey City,Keyboard,Electronics,3,45,135,23.83,Card
+1430,1/22/2025,Customer_113,Newark,USB Cable,Accessories,5,12,60,13.32,UPI
+1431,2/26/2025,Customer_56,Hoboken,Mouse,Electronics,2,115,230,51.34,Card
+1432,2/14/2025,Customer_110,Newark,Mouse,Electronics,1,160,160,39.36,Card
+1433,3/12/2025,Customer_73,Hoboken,Mouse,Electronics,3,175,525,61.35,UPI
+1434,1/25/2025,Customer_101,Newark,Keyboard,Electronics,2,142,284,62.87,UPI
+1435,1/31/2025,Customer_128,Brooklyn,Laptop Bag,Accessories,2,136,272,48.19,Card
+1436,1/17/2025,Customer_100,Brooklyn,USB Cable,Accessories,1,102,102,29.25,Cash
+1437,3/2/2025,Customer_19,Hoboken,Keyboard,Electronics,5,184,920,123.79,UPI
+1438,4/29/2025,Customer_16,New York,Laptop Bag,Accessories,1,77,77,11.02,UPI
+1439,2/21/2025,Customer_22,Brooklyn,Keyboard,Electronics,5,116,580,107.13,UPI
+1440,1/11/2025,Customer_131,Jersey City,USB Cable,Accessories,2,81,162,18.91,Card
+1441,4/8/2025,Customer_17,Newark,USB Cable,Accessories,3,110,330,71.7,UPI
+1442,4/29/2025,Customer_112,Hoboken,Monitor,Electronics,2,24,48,7.15,Cash
+1443,4/5/2025,Customer_45,Hoboken,USB Cable,Accessories,5,24,120,19.42,Card
+1444,3/5/2025,Customer_89,Brooklyn,Headphones,Electronics,2,189,378,38.66,UPI
+1445,4/6/2025,Customer_69,Hoboken,Headphones,Electronics,3,52,156,27.2,Card
+1446,2/3/2025,Customer_148,Hoboken,Keyboard,Electronics,4,79,316,64.71,Cash
+1447,4/20/2025,Customer_146,Jersey City,Monitor,Electronics,5,102,510,56.65,Cash
+1448,3/28/2025,Customer_30,Jersey City,Mouse,Electronics,3,36,108,30.12,UPI
+1449,1/2/2025,Customer_63,Hoboken,USB Cable,Accessories,1,21,21,5.71,Cash
+1450,4/20/2025,Customer_10,Brooklyn,Keyboard,Electronics,4,48,192,26.07,UPI
+1451,2/23/2025,Customer_82,Newark,Headphones,Electronics,4,67,268,44.05,Card
+1452,4/26/2025,Customer_14,Jersey City,USB Cable,Accessories,3,40,120,24.05,Card
+1453,3/1/2025,Customer_73,Newark,USB Cable,Accessories,1,112,112,12.74,Cash
+1454,1/26/2025,Customer_75,Brooklyn,Laptop Bag,Accessories,5,126,630,64,Cash
+1455,3/17/2025,Customer_127,Jersey City,Headphones,Electronics,5,72,360,69.4,UPI
+1456,2/22/2025,Customer_7,Jersey City,USB Cable,Accessories,2,48,96,9.72,UPI
+1457,3/26/2025,Customer_97,Newark,Keyboard,Electronics,1,95,95,9.53,Card
+1458,1/8/2025,Customer_37,Newark,Mouse,Electronics,5,70,350,64.39,Card
+1459,4/25/2025,Customer_96,New York,Laptop Bag,Accessories,2,143,286,52.23,UPI
+1460,3/23/2025,Customer_101,Hoboken,Laptop Bag,Accessories,5,34,170,34.18,UPI
+1461,1/17/2025,Customer_61,Newark,USB Cable,Accessories,1,121,121,28.13,Cash
+1462,2/11/2025,Customer_82,New York,Keyboard,Electronics,4,189,756,201.38,Cash
+1463,4/9/2025,Customer_150,Hoboken,Mouse,Electronics,1,61,61,7.76,Card
+1464,2/22/2025,Customer_31,Brooklyn,Laptop Bag,Accessories,2,125,250,48.3,Cash
+1465,4/20/2025,Customer_31,Hoboken,Mouse,Electronics,4,88,352,67.82,Card
+1466,1/6/2025,Customer_56,Newark,Headphones,Electronics,3,190,570,136.44,Card
+1467,1/7/2025,Customer_77,Newark,Laptop Bag,Accessories,2,101,202,36.21,Card
+1468,3/12/2025,Customer_64,Hoboken,Laptop Bag,Accessories,4,125,500,105.6,Cash
+1469,4/17/2025,Customer_57,Jersey City,Laptop Bag,Accessories,2,41,82,8.4,Card
+1470,3/24/2025,Customer_22,Brooklyn,Monitor,Electronics,3,185,555,125.46,UPI
+1471,1/26/2025,Customer_114,Jersey City,Keyboard,Electronics,1,15,15,4.49,Card
+1472,1/7/2025,Customer_44,Brooklyn,Keyboard,Electronics,1,20,20,5.77,Cash
+1473,3/29/2025,Customer_110,Jersey City,Headphones,Electronics,4,137,548,58.03,Cash
+1474,4/24/2025,Customer_39,Hoboken,Mouse,Electronics,2,80,160,24.96,UPI
+1475,3/5/2025,Customer_106,Brooklyn,USB Cable,Accessories,5,72,360,82.6,Cash
+1476,2/23/2025,Customer_52,Brooklyn,Laptop Bag,Accessories,1,81,81,14.3,Card
+1477,4/11/2025,Customer_92,New York,Headphones,Electronics,5,14,70,20.85,UPI
+1478,2/19/2025,Customer_70,Jersey City,Monitor,Electronics,3,154,462,92.62,Card
+1479,4/14/2025,Customer_72,Hoboken,Keyboard,Electronics,5,66,330,34.93,Cash
+1480,1/21/2025,Customer_26,Jersey City,USB Cable,Accessories,3,159,477,143.06,UPI
+1481,4/28/2025,Customer_15,Jersey City,Mouse,Electronics,3,146,438,115.31,UPI
+1482,3/17/2025,Customer_82,Newark,Monitor,Electronics,3,54,162,21.91,UPI
+1483,3/14/2025,Customer_49,New York,Laptop Bag,Accessories,3,155,465,98.92,UPI
+1484,1/8/2025,Customer_60,Brooklyn,Keyboard,Electronics,2,135,270,29.05,Card
+1485,4/28/2025,Customer_52,Jersey City,Laptop Bag,Accessories,5,132,660,66.09,Cash
+1486,1/19/2025,Customer_37,Hoboken,Headphones,Electronics,2,92,184,20.59,UPI
+1487,3/26/2025,Customer_102,Brooklyn,Keyboard,Electronics,1,105,105,25.3,Card
+1488,1/21/2025,Customer_112,New York,Keyboard,Electronics,3,92,276,35.13,UPI
+1489,3/30/2025,Customer_92,Jersey City,Keyboard,Electronics,2,191,382,112.21,UPI
+1490,3/30/2025,Customer_76,Jersey City,USB Cable,Accessories,2,106,212,34.21,Card
+1491,2/20/2025,Customer_146,Hoboken,Headphones,Electronics,1,189,189,54.76,Card
+1492,3/14/2025,Customer_27,New York,USB Cable,Accessories,3,166,498,71.8,Card
+1493,2/10/2025,Customer_43,Hoboken,Keyboard,Electronics,1,70,70,11.86,UPI
+1494,1/27/2025,Customer_64,Hoboken,Headphones,Electronics,3,124,372,38.05,Cash
+1495,2/19/2025,Customer_113,New York,Keyboard,Electronics,1,194,194,19.45,Card
+1496,2/18/2025,Customer_26,New York,Monitor,Electronics,4,106,424,72.18,UPI
+1497,4/13/2025,Customer_9,Newark,Headphones,Electronics,2,51,102,19.41,Card
+1498,1/22/2025,Customer_97,Jersey City,Keyboard,Electronics,3,36,108,12.4,UPI
+1499,3/20/2025,Customer_124,Hoboken,Laptop Bag,Accessories,5,33,165,27.65,Cash
+1500,1/21/2025,Customer_14,Hoboken,Headphones,Electronics,2,165,330,91.72,Cash
+1501,4/3/2025,Customer_139,Newark,Mouse,Electronics,2,114,228,54.59,UPI
+1502,2/20/2025,Customer_147,Brooklyn,Keyboard,Electronics,3,70,210,25.03,Cash
+1503,1/12/2025,Customer_76,Brooklyn,Mouse,Electronics,1,102,102,10.28,Cash
+1504,3/23/2025,Customer_75,Hoboken,Mouse,Electronics,1,16,16,2.26,Cash
+1505,4/25/2025,Customer_68,Hoboken,Laptop Bag,Accessories,3,111,333,64.66,UPI
+1506,2/18/2025,Customer_95,Jersey City,USB Cable,Accessories,4,57,228,39.72,Cash
+1507,1/29/2025,Customer_69,Brooklyn,Laptop Bag,Accessories,3,122,366,70.64,Card
+1508,4/14/2025,Customer_139,New York,Mouse,Electronics,1,31,31,7.24,UPI
+1509,4/15/2025,Customer_134,New York,Mouse,Electronics,5,25,125,33.52,UPI
+1510,3/2/2025,Customer_77,Hoboken,Headphones,Electronics,4,156,624,172.43,Cash
+1511,3/8/2025,Customer_147,Brooklyn,Headphones,Electronics,1,138,138,29.57,Card
+1512,1/22/2025,Customer_55,Jersey City,Laptop Bag,Accessories,4,54,216,62.6,Card
+1513,2/25/2025,Customer_52,Jersey City,Laptop Bag,Accessories,4,30,120,35.72,UPI
+1514,1/9/2025,Customer_23,New York,Keyboard,Electronics,3,196,588,166.31,UPI
+1515,3/8/2025,Customer_118,Hoboken,Monitor,Electronics,5,93,465,126.17,UPI
+1516,1/15/2025,Customer_107,Jersey City,USB Cable,Accessories,5,143,715,183.28,Card
+1517,5/1/2025,Customer_26,Hoboken,USB Cable,Accessories,5,159,795,200.08,UPI
+1518,4/23/2025,Customer_106,Newark,Laptop Bag,Accessories,3,147,441,121.73,Cash
+1519,1/5/2025,Customer_45,Newark,Headphones,Electronics,4,156,624,138.4,Cash
+1520,2/21/2025,Customer_10,New York,Mouse,Electronics,5,165,825,194.83,Cash
+1521,4/28/2025,Customer_69,Newark,Headphones,Electronics,2,22,44,10.96,Card
+1522,3/4/2025,Customer_26,Jersey City,Keyboard,Electronics,3,89,267,41.67,Card
+1523,2/23/2025,Customer_23,Jersey City,Keyboard,Electronics,4,92,368,56.63,Cash
+1524,3/8/2025,Customer_96,Hoboken,Mouse,Electronics,4,199,796,156.73,UPI
+1525,2/21/2025,Customer_35,Brooklyn,Mouse,Electronics,1,89,89,21.53,UPI
+1526,1/26/2025,Customer_15,Jersey City,Laptop Bag,Accessories,2,59,118,32.45,Card
+1527,2/5/2025,Customer_95,New York,Monitor,Electronics,1,102,102,24.57,UPI
+1528,2/17/2025,Customer_126,Brooklyn,Monitor,Electronics,1,184,184,19.52,Cash
+1529,2/14/2025,Customer_42,Newark,Mouse,Electronics,4,160,640,134.57,UPI
+1530,1/7/2025,Customer_42,Brooklyn,Headphones,Electronics,1,82,82,8.65,Card
+1531,3/25/2025,Customer_105,Brooklyn,Mouse,Electronics,2,183,366,51.73,Card
+1532,3/24/2025,Customer_45,Brooklyn,Headphones,Electronics,1,131,131,36.98,Card
+1533,2/9/2025,Customer_71,New York,Mouse,Electronics,3,165,495,129.2,Cash
+1534,2/8/2025,Customer_134,Brooklyn,Keyboard,Electronics,4,74,296,42.52,Cash
+1535,3/26/2025,Customer_96,Brooklyn,USB Cable,Accessories,1,11,11,2.23,UPI
+1536,1/14/2025,Customer_124,Hoboken,USB Cable,Accessories,5,82,410,65.48,Cash
+1537,4/2/2025,Customer_77,Jersey City,Keyboard,Electronics,3,80,240,36.54,Card
+1538,4/13/2025,Customer_104,Newark,USB Cable,Accessories,2,24,48,12.53,UPI
+1539,2/7/2025,Customer_67,New York,Mouse,Electronics,1,177,177,35.31,Cash
+1540,3/15/2025,Customer_49,Newark,Monitor,Electronics,1,159,159,38.42,UPI
+1541,4/11/2025,Customer_122,Newark,Headphones,Electronics,2,185,370,76.56,UPI
+1542,1/24/2025,Customer_76,Hoboken,Keyboard,Electronics,2,178,356,98.01,Cash
+1543,4/8/2025,Customer_47,Newark,Mouse,Electronics,3,195,585,153.08,UPI
+1544,4/22/2025,Customer_79,New York,Laptop Bag,Accessories,2,100,200,28.93,Cash
+1545,4/19/2025,Customer_31,New York,Keyboard,Electronics,3,159,477,75.75,Card
+1546,1/10/2025,Customer_121,Jersey City,Headphones,Electronics,5,158,790,228.2,UPI
+1547,1/7/2025,Customer_39,Jersey City,Laptop Bag,Accessories,4,145,580,92.61,Card
+1548,2/28/2025,Customer_37,Newark,Keyboard,Electronics,4,155,620,172.71,UPI
+1549,1/23/2025,Customer_81,Hoboken,Mouse,Electronics,1,134,134,22.31,Card
+1550,1/22/2025,Customer_148,Jersey City,Monitor,Electronics,3,63,189,47.67,Cash
+1551,2/24/2025,Customer_104,New York,Laptop Bag,Accessories,2,167,334,62.37,Cash
+1552,4/4/2025,Customer_96,Hoboken,Monitor,Electronics,1,19,19,3.93,Cash
+1553,3/22/2025,Customer_64,Jersey City,USB Cable,Accessories,2,14,28,6.59,UPI
+1554,3/6/2025,Customer_79,Jersey City,Keyboard,Electronics,3,43,129,15.55,Card
+1555,3/8/2025,Customer_135,Newark,Laptop Bag,Accessories,3,84,252,48.18,Cash
+1556,3/4/2025,Customer_92,Jersey City,Headphones,Electronics,2,97,194,58.05,Card
+1557,1/17/2025,Customer_55,Hoboken,Monitor,Electronics,1,68,68,9.85,UPI
+1558,3/25/2025,Customer_10,New York,USB Cable,Accessories,2,41,82,14.21,UPI
+1559,1/7/2025,Customer_28,Hoboken,Keyboard,Electronics,5,169,845,92.71,Card
+1560,1/16/2025,Customer_141,Newark,Headphones,Electronics,1,116,116,21.91,Cash
+1561,3/22/2025,Customer_3,Newark,Headphones,Electronics,2,62,124,29.64,Cash
+1562,3/21/2025,Customer_36,New York,Headphones,Electronics,1,179,179,36.53,Card
+1563,4/11/2025,Customer_28,New York,USB Cable,Accessories,5,40,200,31.31,Card
+1564,1/26/2025,Customer_92,New York,USB Cable,Accessories,2,77,154,41.01,Cash
+1565,1/27/2025,Customer_124,Newark,Mouse,Electronics,1,150,150,29.89,Card
+1566,1/15/2025,Customer_147,New York,Laptop Bag,Accessories,1,181,181,21.32,Card
+1567,1/13/2025,Customer_66,Jersey City,Laptop Bag,Accessories,5,29,145,35.48,Cash
+1568,4/15/2025,Customer_45,Hoboken,Keyboard,Electronics,3,128,384,42.25,Cash
+1569,1/13/2025,Customer_12,Hoboken,Keyboard,Electronics,3,119,357,88.43,Card
+1570,2/26/2025,Customer_69,Hoboken,Headphones,Electronics,2,94,188,32.24,Cash
+1571,2/28/2025,Customer_70,New York,Keyboard,Electronics,2,39,78,14.05,UPI
+1572,1/22/2025,Customer_29,Jersey City,Monitor,Electronics,4,176,704,195.17,UPI
+1573,4/27/2025,Customer_124,Brooklyn,Headphones,Electronics,1,50,50,6.04,UPI
+1574,2/15/2025,Customer_8,Jersey City,Monitor,Electronics,2,166,332,58.42,Cash
+1575,1/9/2025,Customer_67,Newark,Monitor,Electronics,1,115,115,21.64,Card
+1576,3/14/2025,Customer_58,Newark,Headphones,Electronics,5,200,1000,215.33,UPI
+1577,4/4/2025,Customer_64,New York,USB Cable,Accessories,5,34,170,31.72,Cash
+1578,3/13/2025,Customer_14,Hoboken,Headphones,Electronics,4,48,192,51.42,UPI
+1579,4/22/2025,Customer_43,Hoboken,Mouse,Electronics,5,130,650,175.74,Cash
+1580,1/7/2025,Customer_130,Jersey City,Keyboard,Electronics,2,94,188,55.28,UPI
+1581,1/11/2025,Customer_118,New York,Headphones,Electronics,4,113,452,119.07,UPI
+1582,1/16/2025,Customer_128,Hoboken,Monitor,Electronics,1,137,137,25.95,Card
+1583,1/1/2025,Customer_24,Brooklyn,Monitor,Electronics,4,19,76,16.07,UPI
+1584,3/25/2025,Customer_117,Newark,Headphones,Electronics,3,140,420,89.24,Cash
+1585,4/9/2025,Customer_122,Newark,Laptop Bag,Accessories,2,126,252,41.93,UPI
+1586,1/29/2025,Customer_1,Newark,Monitor,Electronics,1,34,34,8.56,Cash
+1587,3/31/2025,Customer_28,Hoboken,Headphones,Electronics,3,150,450,91.98,Card
+1588,2/22/2025,Customer_28,Newark,Monitor,Electronics,2,193,386,95.92,UPI
+1589,2/20/2025,Customer_56,New York,Mouse,Electronics,2,40,80,22.88,Card
+1590,1/6/2025,Customer_32,New York,Headphones,Electronics,3,37,111,27.91,Cash
+1591,3/5/2025,Customer_2,Brooklyn,Headphones,Electronics,5,139,695,88.21,UPI
+1592,3/3/2025,Customer_131,Jersey City,Laptop Bag,Accessories,5,120,600,160.66,UPI
+1593,1/14/2025,Customer_100,Brooklyn,USB Cable,Accessories,2,197,394,103.64,UPI
+1594,3/19/2025,Customer_64,Newark,Keyboard,Electronics,5,108,540,99.22,Cash
+1595,1/18/2025,Customer_106,Brooklyn,Keyboard,Electronics,3,125,375,97.86,UPI
+1596,3/12/2025,Customer_81,Brooklyn,Headphones,Electronics,5,86,430,115.5,UPI
+1597,2/7/2025,Customer_89,Jersey City,Mouse,Electronics,2,63,126,28.33,UPI
+1598,3/23/2025,Customer_83,Hoboken,Headphones,Electronics,2,138,276,57.55,Cash
+1599,3/27/2025,Customer_107,Brooklyn,USB Cable,Accessories,4,159,636,136.19,Cash
