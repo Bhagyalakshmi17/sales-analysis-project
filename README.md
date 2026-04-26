@@ -1,4 +1,8 @@
 # 📊 Sales Data Analysis Project
+This project analyzes sales data using Python, SQL, and Excel to uncover business insights and trends.
+
+## 🎯 Objective
+To identify key sales patterns, top-performing products, and profitability insights to support data-driven decision-making.
 
 ## 📌 Overview
 This project analyzes sales data using Python, SQL, and Excel to generate business insights.
@@ -30,9 +34,33 @@ This project analyzes sales data using Python, SQL, and Excel to generate busine
 ---
 
 ## 📈 Visualizations
-- Sales by Category
-- Profit by City
-- Top Selling Products
+
+### Sales by Category
+![Sales by Category](sales_by_category.png)
+
+### Profit by City
+![Profit by City](profit_by_city.png)
+
+### Top Products
+![Top Products](top_products.png)
+
+## 🗄️ SQL Analysis
+
+Performed analysis using SQL queries:
+- Total sales by category
+- Top 5 products by revenue
+- Profit by city
+- Sales trends
+
+See full queries in `queries.sql`
+
+## 🐍 Python Analysis
+
+Used Python (Pandas, Matplotlib) for:
+- Data cleaning
+- Aggregation
+- Visualization
+- Generating business insights
 
 ---
 
